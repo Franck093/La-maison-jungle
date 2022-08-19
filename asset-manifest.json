@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/La-maison-jungle/static/css/main.52c065d0.css",
+    "main.js": "/La-maison-jungle/static/js/main.7a096213.js",
+    "index.html": "/La-maison-jungle/index.html",
+    "main.52c065d0.css.map": "/La-maison-jungle/static/css/main.52c065d0.css.map",
+    "main.7a096213.js.map": "/La-maison-jungle/static/js/main.7a096213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c065d0.css",
+    "static/js/main.7a096213.js"
+  ]
+}
